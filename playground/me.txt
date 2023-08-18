@@ -1,5 +1,0 @@
-{{#user}
-Name: Vaishnavi Rashankar
-Skills: HTML, CSS, Python,Java,CPP
-Email: vaishnavirashankar18@gmail.com
-{{/user}}
